@@ -13,4 +13,4 @@ Luego de esto el proyecto puede ser iniciado:
   
 Para iniciar el backend ir a pruebaTekbees/back y ejecutar npm start. La API empezará a trabajar localhost:3003  
   
-Para iniciar el front ir a pruebaTekbees/fron y ejecutar npm start. Abrir el navegador e ir a localhost:3000 para usar la aplicación
+Para iniciar el front ir a pruebaTekbees/front y ejecutar npm start. Abrir el navegador e ir a localhost:3000 para usar la aplicación
